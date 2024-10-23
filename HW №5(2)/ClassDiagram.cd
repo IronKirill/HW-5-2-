@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Book" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAEAAMAAAABAEAABAIAAAAAAJAAAAggAAAAAAEA=</HashCode>
+      <FileName>Book.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Voice_recording" Collapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAIAAgAAAAiABAAAAAiAACAAIAACAAAAA=</HashCode>
+      <FileName>Voice_recording.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Talking_book" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQgAAAAAAAAAAACIAACAAAAAAAAAAA=</HashCode>
+      <FileName>Talking_book.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
